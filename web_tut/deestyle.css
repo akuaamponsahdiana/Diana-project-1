@@ -1,0 +1,25 @@
+body{
+  margin: 0;
+  padding: 0;
+  box-sizing: content-box;
+  background-color: aquamarine;
+ margin-left: 50px;
+ 
+}
+.name{
+  width: 170px ;
+  line-height: 25px;
+  
+}
+
+#Header h1{
+  text-align: center;
+}
+#tv-show{
+  text-align: margin-left;
+  color:green
+
+}
+#header h2{
+  line-height: 30px;
+}
